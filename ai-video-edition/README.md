@@ -2,6 +2,8 @@
 
 Guía rápida para inicializar tu entorno de edición de video con código y Remotion.
 
+> 📺 **Video de referencia en YouTube:** [Ver tutorial en el canal](https://youtu.be/oTcHfkKvOJc)
+
 ---
 
 ## 📋 Orden de Uso y Configuración
