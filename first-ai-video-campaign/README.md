@@ -43,10 +43,10 @@ Clean product photograph of one original takeaway iced coffee in a clear plastic
 
 ### Vaso con logo
 
-Sunburst · 1:1 · calidad alta · 2K · `@Image1` vaso · `@Image2` logo
+Sunburst · 1:1 · calidad alta · 2K · `@Image 1` vaso · `@Image 2` logo
 
 ```text
-Keep the exact same cup from @Image1, with the same lid, straw, coffee and lighting. Print the logo from @Image2, including its word, on the front as a real one-color warm white screen print, without its brown background, medium size. Copy the logo and lettering exactly. The ink follows the curve of the cup, with condensation droplets over the print, so it looks printed at the factory and not like a sticker. Plain light-grey studio background, realistic product photography. No other words, no other logos.
+Keep the exact same cup from @Image 1, with the same lid, straw, coffee and lighting. Print the logo from @Image 2, including its word, on the front as a real one-color warm white screen print, without its brown background, medium size. Copy the logo and lettering exactly. The ink follows the curve of the cup, with condensation droplets over the print, so it looks printed at the factory and not like a sticker. Plain light-grey studio background, realistic product photography. No other words, no other logos.
 ```
 
 ### Personaje
@@ -62,7 +62,7 @@ Full-body character design photograph of an original adult male office worker, a
 Sunburst · 16:9 · calidad alta · 2K · adjuntar el personaje
 
 ```text
-Using the attached image as the identity reference, create a clean three-panel character reference sheet of exactly the same man. Left panel: full-body front view. Center panel: full-body right profile view. Right panel: a large close-up of his face from the front. Preserve the exact same face, messy dark hair, under-eye circles, stubble, wrinkled light-blue shirt, loose red tie, grey trousers and worn black shoes in all panels. Plain light-grey background, even lighting, realistic photo. No extra people, no labels, no text, no logos.
+Using the attached image @Image 1 as the identity reference, create a clean three-panel character reference sheet of exactly the same man. Left panel: full-body front view. Center panel: full-body right profile view. Right panel: a large close-up of his face from the front. Preserve the exact same face, messy dark hair, under-eye circles, stubble, wrinkled light-blue shirt, loose red tie, grey trousers and worn black shoes in all panels. Plain light-grey background, even lighting, realistic photo. No extra people, no labels, no text, no logos.
 ```
 
 ### Oficina oscura
@@ -78,7 +78,7 @@ Empty ordinary office at night, photographed from the visitor side of one desk, 
 Sunburst · 16:9 · calidad alta · 2K · adjuntar la oficina oscura
 
 ```text
-Using the attached image as the location reference, show exactly the same office from exactly the same camera angle, with the same desk, keyboard, chair, monitor seen from behind, paper stacks, cubicles, printer and ceiling. Change only the lighting and energy: every ceiling light is now on, the room is bright and vivid with warm white light and clean, saturated colors, as if the whole office has just woken up. No people, no cups, no logos, no text.
+Using the attached image @Image 1 as the location reference, show exactly the same office from exactly the same camera angle, with the same desk, keyboard, chair, monitor seen from behind, paper stacks, cubicles, printer and ceiling. Change only the lighting and energy: every ceiling light is now on, the room is bright and vivid with warm white light and clean, saturated colors, as if the whole office has just woken up. No people, no cups, no logos, no text.
 ```
 
 ---
@@ -110,7 +110,7 @@ Empty grand old library at night, photographed from the opposite side of one woo
 Sunburst · 16:9 · calidad alta · 2K · adjuntar la biblioteca oscura
 
 ```text
-Using the attached image as the location reference, show exactly the same library from exactly the same camera angle, with the same desk, chair, laptop seen from behind, paper stacks, bookshelves and balcony. Change only the lighting and energy: every hanging lamp is now on, the room is warm, golden and vivid, as if the whole library has just woken up. No people, no cups, no logos, no text.
+Using the attached image @Image 1 as the location reference, show exactly the same library from exactly the same camera angle, with the same desk, chair, laptop seen from behind, paper stacks, bookshelves and balcony. Change only the lighting and energy: every hanging lamp is now on, the room is warm, golden and vivid, as if the whole library has just woken up. No people, no cups, no logos, no text.
 ```
 
 ### Comercial en la biblioteca
@@ -125,12 +125,36 @@ Seedance 2.5 · 15 s · 16:9 · 720p · `@Image 1` hoja · `@Image 2` vaso con l
 
 ## 📱 Reels
 
-### Genjutsu
+Genjutsu → Community trending → Recreate · 720p
 
-Community trending → Recreate · 720p · `@Image 1` hoja · `@Image 2` vaso con logo
+### Prompt 1
+
+`@Image 1` bebida · `@Image 2` persona · `@Video 1` plantilla
+
+```text
+Face identity is the highest priority: the man's face must stay identical to @Image 2 in every frame, above everything else.
+Recreate the motion, camera movement, lighting, pacing and timing of @Video 1 exactly, but replace the man in the video with the real man from @Image 2, and replace the drink in the video with the drink from @Image 1.
+The man: @Image 2 shows the same real man from several angles, wearing sunglasses. In every frame he wears the exact same sunglasses as in @Image 2, with the same frame shape, color, lens tint and size, sitting naturally on his face. Never remove, change or swap them. His face must be an exact match to @Image 2 in every frame: same face shape, jawline, nose, mouth, cheeks, ears, dark groomed beard with gray streaks, hairstyle, hairline and skin tone. Do not invent a different person. Keep his face recognizable from every camera angle. Serious calm expression, absolutely no smile. He looks like a real human filmed with a real camera: natural skin with visible pores and fine lines, realistic hair and beard strands, natural hands and body movement. Photorealistic live-action footage only, not AI-looking, not waxy or airbrushed, not a painting, not an illustration, not 3D.
+His outfit and body build must also match @Image 2 exactly in every frame.
+The drink: use the drink from @Image 1 exactly as it appears, with the same cup, shape, colors, lid, straw or opening, and the same logo and printing. Copy the logo and all its text exactly from @Image 1, never rewrite, redraw or change them. The logo side of the cup faces the camera in every frame and is never turned away or covered by his hand.
+Action: he picks up the drink and drinks it the natural way for this type of cup, with the same motion and timing as @Video 1, then lowers it.
+Remove any text, logo or watermark that appears in @Video 1. No added text anywhere.
+Keep the same environment, lighting and camera movement as @Video 1. Cinematic, realistic, no extra objects.
+```
+
+### Prompt 2
+
+`@Image 1` hoja · `@Image 2` vaso con logo
+
+```text
+Keep the exact motion, camera, timing and location of the video. Replace the person with @Image 1, using the sheet only for his identity and wardrobe, and keep his face, messy hair, wrinkled light-blue shirt and loose red tie the same in every frame, with no sunglasses. Replace the drink with @Image 2, keeping the white coffee bean logo and the word SORBAZO printed on the cup and clearly visible. Everything else stays the same. No other text, no captions, no other logos, no watermark.
+- No text anywhere
+```
+
+### Prompt 3
+
+`@Image 1` hoja · `@Image 2` vaso con logo
 
 ```text
 Keep the exact motion, camera, timing and location of the video. Replace the person with @Image 1, using the sheet only for his identity and wardrobe, and keep his face, messy hair, wrinkled light-blue shirt and loose red tie the same in every frame, with no sunglasses. Replace the drink with @Image 2, keeping the white coffee bean logo and the word SORBAZO printed on the cup and clearly visible. Everything else stays the same. No other text, no captions, no other logos, no watermark.
 ```
-
-Puedes ajustar el prompt según lo que ocurra en cada plantilla.
