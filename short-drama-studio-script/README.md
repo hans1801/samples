@@ -23,3 +23,13 @@ Skill usada en el video para escribir el guion de un short drama con Claude y su
 **En Claude Code:** copia la carpeta con el `SKILL.md` a `~/.claude/skills/short-drama-studio-script/`.
 
 Después solo pídele a Claude: *«hazme un short drama»*.
+
+---
+
+## 📂 Más recursos del video
+
+| Archivo | Qué es |
+|---|---|
+| [`guion-sin-rango.txt`](guion-sin-rango.txt) | El guion del episodio «Sin Rango», el que subí a la web. Pruébalo tal cual. |
+| [`prompt-generador-de-guiones.md`](prompt-generador-de-guiones.md) | Un prompt para escribir tus propios episodios en cualquier chat de IA, sin instalar la skill. |
+| [`prompt-cambio-de-estilo.md`](prompt-cambio-de-estilo.md) | El prompt para convertir el episodio a otro estilo (Furry) desde Claude. |
